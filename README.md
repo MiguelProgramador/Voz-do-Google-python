@@ -2,6 +2,7 @@
 Este código faz que você escreva algo e assim que escrever  o "python" irá ler sua mensagem.
 
 """PROJECT SPEAK"""
+
 import androidhelper
 
 droid = androidhelper.Android()
